@@ -56,17 +56,3 @@ let bombBoard = generateBombBoard(3,4,5);
 
 console.log('Player Board: \n' + printBoard(playerBoard));
 console.log('Bomb Board: \n' + printBoard(bombBoard));
-
-// let board = [
-// 				[' ',' ',' '],
-// 				[' ',' ',' '],
-// 				[' ',' ',' ']
-// 			];
-
-
-//printBoard(board);
-
-// board[0][1] = '1';
-// board[2][2] = 'B';
-
-// printBoard(board);
